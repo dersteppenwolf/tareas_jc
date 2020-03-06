@@ -3,7 +3,7 @@
 
 Repositorio de Ejemplo tareas de Juan Carlos
 
-Mi lista:
+Mis Tareas: 
 - primera
 - segunda
 
